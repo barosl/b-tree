@@ -562,8 +562,6 @@ int main(void) {
 	root_idx = root.idx;
 
 	input();
-	fflush(fp);
-	return 0;
 
 	process();
 
