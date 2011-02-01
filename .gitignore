@@ -2,3 +2,4 @@
 *.hi
 *.pyc
 b-tree
+data.bin
